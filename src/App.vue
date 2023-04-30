@@ -12,7 +12,10 @@ export default {
   name: 'App',
   components: {
     HelloWorld
-  }
+  },
+    created() {
+      this.$emit("render");
+    }
 }
 </script>
 

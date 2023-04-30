@@ -1,5 +1,8 @@
 # vue-tests
 
+## Descricao:
+### este projeto é para testar a viabilidade de testes initários com vuecli
+
 ## Project setup
 ```
 npm install
